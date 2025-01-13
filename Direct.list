@@ -577,5 +577,3 @@ DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
 
-#自定义
-SRC-IP-CIDR,192.168.124.163/32

@@ -27,6 +27,6 @@ IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve    
 
 #自定义
-DOMAIN-KEYWORD,browserleaks,🚀 节点选择
-DOMAIN-KEYWORD,js47,🚀 节点选择
+DOMAIN-KEYWORD,browserleaks
+DOMAIN-KEYWORD,js47
 
